@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; My Site</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 12 Feb 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>erere</title>
+		<link>./../../../2020/02/12/erere/index.html</link>
+				<comments>./../../../2020/02/12/erere/index.html#respond</comments>
+				<pubDate>Wed, 12 Feb 2020 06:44:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=14</guid>
+				<description><![CDATA[erererer]]></description>
+								<content:encoded><![CDATA[
+<p>erererer</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../2020/02/12/erere/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>dghdgg</title>
+		<link>./../../../2020/02/12/dghdgg/index.html</link>
+				<comments>./../../../2020/02/12/dghdgg/index.html#respond</comments>
+				<pubDate>Wed, 12 Feb 2020 04:53:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=8</guid>
+				<description><![CDATA[dhgdhgdgdhgdh]]></description>
+								<content:encoded><![CDATA[
+<p>dhgdhgdgdhgdh</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../2020/02/12/dghdgg/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Damian Hill Test</title>
+		<link>./../../../2020/02/12/damian-hill-test/index.html</link>
+				<comments>./../../../2020/02/12/damian-hill-test/index.html#respond</comments>
+				<pubDate>Wed, 12 Feb 2020 03:45:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[asfsafsa]]></category>
+		<category><![CDATA[fff]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=5</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/02/taiwan.jpg" alt="" class="wp-image-6" srcset="./../../../wp-content/uploads/2020/02/taiwan.jpg 563w, ./../../../wp-content/uploads/2020/02/taiwan-300x110.jpg 300w" sizes="(max-width: 563px) 100vw, 563px" /></figure>
+]]></content:encoded>
+							<wfw:commentRss>./../../../2020/02/12/damian-hill-test/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../../../2020/02/12/hello-world/index.html</link>
+				<comments>./../../../2020/02/12/hello-world/index.html#comments</comments>
+				<pubDate>Wed, 12 Feb 2020 01:54:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+								<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../2020/02/12/hello-world/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
