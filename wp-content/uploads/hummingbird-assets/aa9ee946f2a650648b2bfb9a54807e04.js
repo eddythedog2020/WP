@@ -1,0 +1,2 @@
+/**handles:kouki-lightbox-init**/
+jQuery(document).ready(function(i){"use strict";i(".entry-content a").attr("data-imagelightbox","");var o=function(){i('<div id="imagelightbox-loading"><div></div></div>').appendTo("body")},n=function(){i("#imagelightbox-loading").remove()},t=function(){i('<div id="imagelightbox-overlay"></div>').appendTo("body")},a=function(){i("#imagelightbox-overlay").remove()};i("a[data-imagelightbox]").imageLightbox({onStart:function(){t()},onEnd:function(){a(),n()},onLoadStart:function(){o()},onLoadEnd:function(){n()}})});
